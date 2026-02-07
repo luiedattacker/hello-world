@@ -1,0 +1,6 @@
+queue_rules:
+  - name: testeeee
+merge_queue:
+  reset_on_external_merge: always
+  queued_label: queuedee"><b>
+  dequeued_label: dequeuedteste
