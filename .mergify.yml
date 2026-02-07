@@ -1,3 +1,7 @@
 queue_rules:
   - name: aaaaaaa
     batch_size: 12
+commands_restrictions:
+  backport:
+    conditions:
+      - -sender-permission >= write
