@@ -1,7 +1,1 @@
-priority_rules:
-  - name: testeee
-    priority: medium
-    conditions:
-      - and:
-          - base = main
-    allow_checks_interruption: true
+ 
